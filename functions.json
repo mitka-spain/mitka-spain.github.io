@@ -1,0 +1,23 @@
+{
+    "functions": [
+        {
+            "id": "ANSWER",
+            "name": "ANSWER",
+            "parameters": [
+                {
+                    "name": "notes",
+                    "type": "string"
+                },
+                {
+                    "dimensionality": "matrix",
+                    "name": "question",
+                    "repeating": true,
+                    "type": "string"
+                }
+            ],
+            "result": {
+                "type": "string"
+            }
+        }
+    ]
+}
