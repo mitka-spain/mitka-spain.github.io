@@ -1,0 +1,39 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #F4F4F4;
+    margin: 20px;
+    padding: 20px;
+}
+
+.ms-Label {
+    margin-bottom: 8px;
+    font-weight: bold;
+    color: #333;
+}
+
+#openAIKey,
+#fileInput {
+    width: 100%;
+    padding: 8px;
+    box-sizing: border-box;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 14px;
+}
+
+#btnStoreKey {
+    margin-top: 8px;
+    background-color: #0078D4;
+    color: #fff;
+    padding: 10px 15px;
+    font-size: 16px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+#btnStoreKey:disabled {
+    background-color: #D0D0D0;
+    color: #666;
+    cursor: not-allowed;
+}
