@@ -3,11 +3,10 @@
         {
             "id": "ANSWER",
             "name": "ANSWER",
+            "options": {
+                "requiresAddress": true
+            },
             "parameters": [
-                {
-                    "name": "notes",
-                    "type": "string"
-                },
                 {
                     "dimensionality": "matrix",
                     "name": "question",
