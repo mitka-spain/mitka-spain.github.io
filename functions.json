@@ -3,6 +3,9 @@
         {
             "id": "ANSWER",
             "name": "ANSWER",
+            "options": {
+                "requiresAddress": true
+            },
             "parameters": [
                 {
                     "dimensionality": "matrix",
@@ -18,6 +21,9 @@
         {
             "id": "ANSWER_YES_NO",
             "name": "ANSWER_YES_NO",
+            "options": {
+                "requiresAddress": true
+            },
             "parameters": [
                 {
                     "dimensionality": "matrix",
