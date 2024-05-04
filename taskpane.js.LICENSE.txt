@@ -8,6 +8,11 @@
  */
 
 /*!
+   * mustache.js - Logic-less {{mustache}} templates with JavaScript
+   * http://github.com/janl/mustache.js
+   */
+
+/*!
  * https://github.com/Starcounter-Jack/JSON-Patch
  * (c) 2013-2021 Joachim Wester
  * MIT license
@@ -18,3 +23,5 @@
  * (c) 2017-2022 Joachim Wester
  * MIT licensed
  */
+
+/*! http://mths.be/fromcodepoint v0.1.0 by @mathias */
